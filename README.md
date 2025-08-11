@@ -2,12 +2,6 @@
 
 This repository contains the code for the paper "Protein A-like Peptide Generation Based on a Generalized Diffusion Model". The core functionality is implemented in a Jupyter Notebook (`GDM.ipynb`).
 
-
-## Overview
-
-This project focuses on generating Protein A-like peptides through a generalized diffusion model. Diffusion models generate high-quality sequences by iteratively denoising random inputs, and this implementation is tailored to peptide sequence generation, providing a straightforward workflow for training and inference.
-
-
 ## Requirements
 
 Install the required dependencies to run the code:
@@ -54,14 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 
-If you use this code in your research, please cite our paper:@article{your-paper-citation,
-  title={Protein A-like Peptide Generation Based on a Generalized Diffusion Model},
-  author={Your Name(s)},
-  journal={Journal Name},
-  year={2024},
-  doi={...}
-}
+If you use this code in your research, please cite our paper
 
 ## Contact
 
-For questions, please contact [your-email] or open an issue in the repository.
+For questions, please contact us or open an issue in the repository.
