@@ -1,6 +1,6 @@
 # Protein A-like Peptide Generation Based on a Generalized Diffusion Model
 
-This repository contains the code for the paper "Protein A-like Peptide Generation Based on a Generalized Diffusion Model". The core functionality is implemented in a Jupyter Notebook (`GDM.ipynb`), which enables end-to-end execution of the peptide generation pipeline using a generalized diffusion model.
+This repository contains the code for the paper "Protein A-like Peptide Generation Based on a Generalized Diffusion Model". The core functionality is implemented in a Jupyter Notebook (`GDM.ipynb`).
 
 
 ## Overview
